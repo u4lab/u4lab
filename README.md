@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="u4lab banner" width="100%">
+  <img src="bg.png" alt="u4lab banner" width="100%">
 </p>
 # 👨‍💻 u4lab | Backend Engineer & Bot Infrastructure Architect
 

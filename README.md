@@ -2,64 +2,6 @@
   <img src="bg.png" alt="u4lab banner" width="100%">
 </p>
 
-# 👨‍💻 u4lab | Backend Engineer & Bot Infrastructure Architect
-
-I design and implement complex distributed systems, business logic automation, and high-load bridges between platforms. My focus is on **Performance**, **Scalability**, and **Reverse Engineering**.
-
----
-
-### 🛠 Tech Stack
-
-* **Core:** Python 3.11+ (Asyncio), C++ (Basics)
-* **Frameworks:** FastAPI, Aiogram 3.x, Discord.py, Starlette
-* **Data:** PostgreSQL (SQLAlchemy / Asyncpg), MongoDB (Motor), Redis (FSM & Caching)
-* **Ops:** Docker & Compose, Poetry, Nginx, CI/CD, Linux Server Management
-* **Expertise:** API Reverse Engineering, Multi-tenant Architecture, Media Processing Pipelines, Message Routing Systems.
-
----
-
-### 🏗 Key Projects & Expertise
-
-#### 🔒 DocPulse PA-2.0 (Private Framework)
-**Professional Parser Agent Infrastructure**
-* Developed a modular framework for managing the lifecycle of parser agents (Runtime: Start/Stop/Status).
-* Implemented the `DirectSender` system with an exponential backoff mechanism for guaranteed data delivery to the backend.
-* Implemented an isolated `MediaManager` for validation, processing, and rotation of temporary media files.
-
-#### 🚀 AMultibot
-**High-Efficiency Multi-tenant Gateway**
-* Architecture for running an unlimited number of independent bots on a single FastAPI instance.
-* Dynamic webhook registration and data isolation between instances.
-* Resource optimization: shared business logic with separate data contexts.
-
-#### 🕊 TWFeed & Disresend
-**Cross-Platform Integration & Reverse Engineering**
-* **TWFeed:** Built a content delivery system from Twitter/X without using the official API. Implemented rendering of tweets to PNG via Playwright to preserve the original visual style.
-* **Disresend:** Enterprise solution for synchronizing Discord and Telegram. Complex processing of Markdown formatting, attachments, and Cross-Replies translation between incompatible APIs.
-* Utilizing multiprocessing (DPC) to ensure parser stability.
-
-#### 💬 MsgRelayBot
-**Customer Support Infrastructure**
-* Two-way message relay system (CRM-like) based on Telegram Forum Topics.
-* "One topic = one client" architecture, allowing management of hundreds of dialogues within a single group.
-* Full internationalization (i18n) and configuration management via ENV for rapid customization.
-
----
-
-### 📊 Engineering Philosophy
-
-- **Clean Code:** I prefer strict typing and adherence to SOLID principles.
-- **Robustness:** Any external integration must have error handling and automatic recovery mechanisms.
-- **Security:** Secure token storage and encryption of sensitive data.
-
----
-
-### 📞 Connect with me
-* **News & Tech:** [@u4_studio](https://t.me/u4_studio)
-* **Contact & Info:** [@u4_about](https://t.me/u4_about)
-
-<br>
-
 <details>
 <summary><b>🇷🇺 Показать версию на русском языке</b></summary>
 <br>
@@ -120,10 +62,68 @@ I design and implement complex distributed systems, business logic automation, a
 * **News & Tech:** [@u4_studio](https://t.me/u4_studio)
 * **Contact & Info:** [@u4_about](https://t.me/u4_about)
 
+---
 </details>
 
 <br>
 
+# 👨‍💻 u4lab | Backend Engineer & Bot Infrastructure Architect
+
+I design and implement complex distributed systems, business logic automation, and high-load bridges between platforms. My focus is on **Performance**, **Scalability**, and **Reverse Engineering**.
+
+---
+
+### 🛠 Tech Stack
+
+* **Core:** Python 3.11+ (Asyncio), C++ (Basics)
+* **Frameworks:** FastAPI, Aiogram 3.x, Discord.py, Starlette
+* **Data:** PostgreSQL (SQLAlchemy / Asyncpg), MongoDB (Motor), Redis (FSM & Caching)
+* **Ops:** Docker & Compose, Poetry, Nginx, CI/CD, Linux Server Management
+* **Expertise:** API Reverse Engineering, Multi-tenant Architecture, Media Processing Pipelines, Message Routing Systems.
+
+---
+
+### 🏗 Key Projects & Expertise
+
+#### 🔒 DocPulse PA-2.0 (Private Framework)
+**Professional Parser Agent Infrastructure**
+* Developed a modular framework for managing the lifecycle of parser agents (Runtime: Start/Stop/Status).
+* Implemented the `DirectSender` system with an exponential backoff mechanism for guaranteed data delivery to the backend.
+* Implemented an isolated `MediaManager` for validation, processing, and rotation of temporary media files.
+
+#### 🚀 AMultibot
+**High-Efficiency Multi-tenant Gateway**
+* Architecture for running an unlimited number of independent bots on a single FastAPI instance.
+* Dynamic webhook registration and data isolation between instances.
+* Resource optimization: shared business logic with separate data contexts.
+
+#### 🕊 TWFeed & Disresend
+**Cross-Platform Integration & Reverse Engineering**
+* **TWFeed:** Built a content delivery system from Twitter/X without using the official API. Implemented rendering of tweets to PNG via Playwright to preserve the original visual style.
+* **Disresend:** Enterprise solution for synchronizing Discord and Telegram. Complex processing of Markdown formatting, attachments, and Cross-Replies translation between incompatible APIs.
+* Utilizing multiprocessing (DPC) to ensure parser stability.
+
+#### 💬 MsgRelayBot
+**Customer Support Infrastructure**
+* Two-way message relay system (CRM-like) based on Telegram Forum Topics.
+* "One topic = one client" architecture, allowing management of hundreds of dialogues within a single group.
+* Full internationalization (i18n) and configuration management via ENV for rapid customization.
+
+---
+
+### 📊 Engineering Philosophy
+
+- **Clean Code:** I prefer strict typing and adherence to SOLID principles.
+- **Robustness:** Any external integration must have error handling and automatic recovery mechanisms.
+- **Security:** Secure token storage and encryption of sensitive data.
+
+---
+
+### 📞 Connect with me
+* **News & Tech:** [@u4_studio](https://t.me/u4_studio)
+* **Contact & Info:** [@u4_about](https://t.me/u4_about)
+
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=u4lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>

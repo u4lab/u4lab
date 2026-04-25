@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="u4lab banner" width="100%">
+</p>
 # 👨‍💻 u4lab | Backend Engineer & Bot Infrastructure Architect
 
 Проектирую и внедряю сложные распределенные системы, автоматизацию бизнес-логики и высоконагруженные мосты между платформами. Мой фокус — **Performance**, **Scalability** и **Reverse Engineering**.

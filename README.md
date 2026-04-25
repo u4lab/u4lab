@@ -2,11 +2,6 @@
   <img src="bg.png" alt="u4lab banner" width="100%">
 </p>
 
-<p align="center">
-  <a href="#english">English 🇺🇸</a> | <a href="#russian">Русский 🇷🇺</a>
-</p>
-
-<a name="english"></a>
 # 👨‍💻 u4lab | Backend Engineer & Bot Infrastructure Architect
 
 I design and implement complex distributed systems, business logic automation, and high-load bridges between platforms. My focus is on **Performance**, **Scalability**, and **Reverse Engineering**.
@@ -63,10 +58,12 @@ I design and implement complex distributed systems, business logic automation, a
 * **News & Tech:** [@u4_studio](https://t.me/u4_studio)
 * **Contact & Info:** [@u4_about](https://t.me/u4_about)
 
----
----
+<br>
 
-<a name="russian"></a>
+<details>
+<summary><b>🇷🇺 Показать версию на русском языке</b></summary>
+<br>
+
 # 👨‍💻 u4lab | Backend Engineer & Bot Infrastructure Architect
 
 Проектирую и внедряю сложные распределенные системы, автоматизацию бизнес-логики и высоконагруженные мосты между платформами. Мой фокус — **Performance**, **Scalability** и **Reverse Engineering**.
@@ -123,7 +120,10 @@ I design and implement complex distributed systems, business logic automation, a
 * **News & Tech:** [@u4_studio](https://t.me/u4_studio)
 * **Contact & Info:** [@u4_about](https://t.me/u4_about)
 
----
+</details>
+
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=u4lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>

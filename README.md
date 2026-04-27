@@ -42,7 +42,7 @@
 * **Disresend:** Enterprise-решение для синхронизации Discord и Telegram. Сложная обработка Markdown-разметки, вложений и трансляция Cross-Replies между несовместимыми API.
 * Использование мультипроцессности (DPC) для обеспечения стабильности парсеров.
 
-#### 💬 MsgRelayBot
+#### 💬 [MsgRelayBot](https://github.com/u4lab/msgrelaybot)
 **Customer Support Infrastructure**
 * Система двустороннего релея сообщений (CRM-like) на базе Telegram Forum Topics.
 * Архитектура «один топик = один клиент», позволяющая вести сотни диалогов внутри одной группы.
@@ -103,7 +103,7 @@ I design and implement complex distributed systems, business logic automation, a
 * **Disresend:** Enterprise solution for synchronizing Discord and Telegram. Complex processing of Markdown formatting, attachments, and Cross-Replies translation between incompatible APIs.
 * Utilizing multiprocessing (DPC) to ensure parser stability.
 
-#### 💬 MsgRelayBot
+#### 💬 [MsgRelayBot](https://github.com/u4lab/msgrelaybot)
 **Customer Support Infrastructure**
 * Two-way message relay system (CRM-like) based on Telegram Forum Topics.
 * "One topic = one client" architecture, allowing management of hundreds of dialogues within a single group.

@@ -42,7 +42,7 @@
 * **Disresend:** Enterprise-решение для синхронизации Discord и Telegram. Сложная обработка Markdown-разметки, вложений и трансляция Cross-Replies между несовместимыми API.
 * Использование мультипроцессности (DPC) для обеспечения стабильности парсеров.
 
-#### 💬 [MsgRelayBot](https://github.com/u4lab/msgrelaybot)
+#### 💬 MsgRelayBot
 **Customer Support Infrastructure**
 * Система двустороннего релея сообщений (CRM-like) на базе Telegram Forum Topics.
 * Архитектура «один топик = один клиент», позволяющая вести сотни диалогов внутри одной группы.

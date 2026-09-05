@@ -58,9 +58,7 @@
 
 ---
 
-### 📞 Connect with me
-* **News & Tech:** [@u4_studio](https://t.me/u4_studio)
-* **Contact & Info:** [@u4_about](https://t.me/u4_about)
+
 
 ---
 </details>
@@ -119,9 +117,7 @@ I design and implement complex distributed systems, business logic automation, a
 
 ---
 
-### 📞 Connect with me
-* **News & Tech:** [@u4_studio](https://t.me/u4_studio)
-* **Contact & Info:** [@u4_about](https://t.me/u4_about)
+
 
 ---
 <p align="center">
